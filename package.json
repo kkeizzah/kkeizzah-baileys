@@ -1,6 +1,6 @@
 {
-  "name": "baileys",
-  "version": "6.7.18",
+  "name": "kkeizzah-baileys",
+  "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
@@ -11,7 +11,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "keithkeizzah",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
